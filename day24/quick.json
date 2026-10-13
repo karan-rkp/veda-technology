@@ -1,0 +1,63 @@
+
+[
+    {
+        "question": "What is the output of print(2 + 3)?",
+        "options": ["4", "5", "6", "23"],
+        "answer": "5"
+    },
+    {
+        "question": "Which keyword defines a function in Python?",
+        "options": ["function", "define", "def", "fun"],
+        "answer": "def"
+    },
+    {
+        "question": "Which data type stores True or False?",
+        "options": ["int", "str", "bool", "list"],
+        "answer": "bool"
+    },
+    {
+        "question": "Which symbol is used for comments in Python?",
+        "options": ["//", "#", "/*", "--"],
+        "answer": "#"
+    },
+    {
+        "question": "Which method adds an item to a list?",
+        "options": ["add()", "insertEnd()", "append()", "push()"],
+        "answer": "append()"
+    },
+    {
+        "question": "What is the output of len('Python')?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "6"
+    },
+    {
+        "question": "Which loop repeats while a condition is true?",
+        "options": ["for", "while", "repeat", "loop"],
+        "answer": "while"
+    },
+    {
+        "question": "Which collection stores key-value pairs?",
+        "options": ["List", "Tuple", "Dictionary", "Set"],
+        "answer": "Dictionary"
+    },
+    {
+        "question": "Which operator checks equality?",
+        "options": ["=", "==", "!=", ":="],
+        "answer": "=="
+    },
+    {
+        "question": "Which function converts text to an integer?",
+        "options": ["str()", "float()", "int()", "bool()"],
+        "answer": "int()"
+    },
+    {
+        "question": "Which keyword handles exceptions?",
+        "options": ["catch", "error", "try", "check"],
+        "answer": "try"
+    },
+    {
+        "question": "Which module helps work with JSON data?",
+        "options": ["csv", "json", "math", "randoms"],
+        "answer": "json"
+    }
+]
