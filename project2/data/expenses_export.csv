@@ -1,0 +1,7 @@
+
+id,title,amount,category,date,note,created_at
+1,Lunch at Restaurant,250.00,Food,2026-10-29,Lunch with friends,2026-10-29T13:30:00
+2,Bus Pass,600.00,Transport,2026-10-29,Monthly bus pass,2026-10-29T09:15:00
+3,Python Course,1499.00,Education,2026-10-28,Online programming course,2026-10-28T17:45:00
+4,Mobile Recharge,299.00,Bills,2026-10-27,Monthly mobile plan,2026-10-27T11:00:00
+5,Groceries,850.00,Food,2026-10-26,Weekly grocery shopping,2026-10-26T18:20:00
